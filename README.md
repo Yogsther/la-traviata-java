@@ -10,8 +10,11 @@ Connect to a MySQL server (127.0.0.1) with username ```root```, no password.
 #### Dependencies
 All located in /lib
 
-    * json.jar
-    * mysql-connector-java-8.0.15.jar
+ * json.jar
+ * mysql-connector-java-8.0.15.jar
+
+#### Download
+Download the latest version at [releases](https://github.com/Yogsther/la-traviata-java/releases)
 
 #### Build it
 
